@@ -1,0 +1,16 @@
+#app{
+    background-color: grey;
+    border: 4px solid teal;
+    border-radius: 12px;
+}
+
+.btn{
+    background-color: rgb(8, 156, 156);
+    border: 2px solid teal;
+}
+
+#output__gewicht{
+    color: rgb(3, 61, 61);
+    font-weight: 800;
+    font-size: 1.8rem;
+}
